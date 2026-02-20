@@ -1,0 +1,1 @@
+# Tarea_Mineria_de_Datos_Primer_Parcial
