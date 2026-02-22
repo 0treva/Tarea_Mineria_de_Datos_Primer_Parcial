@@ -1,3 +1,7 @@
+Enlace de video: 
+
+https://drive.google.com/file/d/1iFkG4cmdHaiDmvvtgYo-3078bwMi9XId/view?usp=sharing
+
 
 # Preprocesamiento de datos y preguntas técnicas  
 **Materia:** Minería de Datos y Ciencia de Datos  
@@ -23,6 +27,8 @@ MiniProyecto1 colab:
 https://colab.research.google.com/drive/16xR8O35mLycySiIdOvg6cDYGibQUgeRI?usp=sharing
 
 Video presentación: 
+
+https://drive.google.com/file/d/1iFkG4cmdHaiDmvvtgYo-3078bwMi9XId/view?usp=sharing
 
 
 ---
