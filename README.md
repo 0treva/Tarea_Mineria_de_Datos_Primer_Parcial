@@ -13,9 +13,16 @@
 
 
 En el caso de que no se puedan apreciar en los documentos igualmente se puede acceder a todo el contenido por los siguientes enlaces: 
-Presentación pptx: https://docs.google.com/presentation/d/1IgAQxFV7NbsIPbVQBFDuvol2egAkaS7s/edit?usp=sharing&ouid=111078524243763443739&rtpof=true&sd=true
-MiniProyecto1 colab: https://colab.research.google.com/drive/16xR8O35mLycySiIdOvg6cDYGibQUgeRI?usp=sharing
 
+Presentación pptx: 
+
+https://docs.google.com/presentation/d/1IgAQxFV7NbsIPbVQBFDuvol2egAkaS7s/edit?usp=sharing&ouid=111078524243763443739&rtpof=true&sd=true
+
+MiniProyecto1 colab: 
+
+https://colab.research.google.com/drive/16xR8O35mLycySiIdOvg6cDYGibQUgeRI?usp=sharing
+
+Video presentación: 
 
 
 ---
