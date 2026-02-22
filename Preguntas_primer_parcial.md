@@ -289,19 +289,7 @@ MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2
 MSE = \frac{1+0+4}{3} = \frac{5}{3} \approx 1.6667
 \]
 
-**Verificación en Python:**
-```python
-import numpy as np
 
-def mse(y_true, y_pred):
-    y_true = np.array(y_true, dtype=float)
-    y_pred = np.array(y_pred, dtype=float)
-    return np.mean((y_true - y_pred) ** 2)
-
-print(mse([3, 5, 2], [2, 5, 4]))  # 1.666666...
-```
-
----
 
 ## 5) Implemente una función que encuentre la media de una columna y sustituya ese valor en todos los NaNs
 
@@ -323,19 +311,6 @@ print("Media usada:", m)
 print(df)
 ```
 
-### Opción B: con NumPy (arreglo 1D)
+### Opción SimpleImputer
 
-```python
-import numpy as np
-
-def fill_nan_with_mean_np(arr):
-    arr = np.array(arr, dtype=float)
-    mean_value = np.nanmean(arr)
-    arr[np.isnan(arr)] = mean_value
-    return arr, mean_value
-
-# Ejemplo
-arr_filled, m = fill_nan_with_mean_np([25, np.nan, 35, 40])
-print("Media usada:", m)
-print(arr_filled)
-```
+Como se alcanza a apreciar en el formulario con el que trabajamos.
